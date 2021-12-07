@@ -1,17 +1,7 @@
-@font-face {
-    font-family: Berthold;
-    src: url(Berthold\ Akzidenz\ Grotesk\ Bold\ Condensed.ttf);
-}
-
-@font-face {
-    font-family: Berthold2;
-    src: url(Berthold\ Akzidenz\ Grotesk\ Condensed.ttf);
-}
 
 * {
     margin: 0;
     padding: 0;
-    font-family: myFirstFont;
     box-sizing: border-box;
 }
 
